@@ -18,7 +18,7 @@
 - [Customer Churn Starting Point](sessions/2_session/customer_churn_starting_point.ipynb)
 ([Open in Colab](https://colab.research.google.com/github/jan-source/ppa_erp_student/blob/main/sessions/2_session/customer_churn_starting_point.ipynb))
 
-- [Customer Churn WIP](sessions/2_session/CustomerChurn_2026-10-28.ipynb)
+- [Customer Churn WIP](sessions/2_session/CustomerChurn_wip.ipynb)
 ([Open in Colab](https://colab.research.google.com/github/jan-source/ppa_erp_student/blob/main/sessions/2_session/CustomerChurn_wip.ipynb))
 
 - [Customer Churn Solution](sessions/2_session/customer_churn.ipynb)
