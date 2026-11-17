@@ -46,3 +46,6 @@
 - [Starting Point](case_1_supplier/starting_point_sample_solution.ipynb)
 ([Open in Colab](https://colab.research.google.com/github/jan-source/ppa_erp_student/blob/main/case_1_supplier/starting_point_sample_solution.ipynb))
 
+- [Sample Solution](case_1_supplier/sample_solution.ipynb)
+([Open in Colab](https://colab.research.google.com/github/jan-source/ppa_erp_student/blob/main/case_1_supplier/sample_solution.ipynb))
+
