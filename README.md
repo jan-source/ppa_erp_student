@@ -13,7 +13,6 @@
 - [Quantity Forecasting Solution](sessions/1_session/linear_regression_fmcg_quantity_forcasting.ipynb)
 ([Open in Colab](https://colab.research.google.com/github/jan-source/ppa_erp_student/blob/main/sessions/1_session/linear_regression_fmcg_quantity_forcasting.ipynb))
 
-
 ### 2. Session
 - [Customer Churn Starting Point](sessions/2_session/customer_churn_starting_point.ipynb)
 ([Open in Colab](https://colab.research.google.com/github/jan-source/ppa_erp_student/blob/main/sessions/2_session/customer_churn_starting_point.ipynb))
@@ -39,3 +38,11 @@
 ([Open in Colab](https://colab.research.google.com/github/jan-source/ppa_erp_student/blob/main/sessions/4_session/purchase_data_erp_next.ipynb))
 
 ### 5. Session
+
+
+## Cases
+
+### 1. Case Supplier Cybersecurity Incidences
+- [Starting Point](case_1_supplier/starting_point_sample_solution.ipynb)
+([Open in Colab](https://colab.research.google.com/github/jan-source/ppa_erp_student/blob/main/case_1_supplier/starting_point_sample_solution.ipynb))
+
